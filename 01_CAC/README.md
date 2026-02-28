@@ -85,7 +85,7 @@ ORDER BY cac DESC;
 ---
 ![CAC chart](CAC.png)
 
-## 📊 Analytical Insight
+## 📊 Analytical Insights
 In this calculation, the CAC is calculated based on users who have made a valid (non-cancelled) order, and not just registered.
 
 At the current stage:
