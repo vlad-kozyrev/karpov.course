@@ -79,7 +79,7 @@ SELECT
     ROUND(250000.0 / COUNT(user_id), 2) AS cac
 FROM campaigns
 GROUP BY ads_campaign
-ORDER BY cac DESC
+ORDER BY cac DESC ```
 
 ![CAC chart](01_CAC/CAC.png)
 
