@@ -18,7 +18,7 @@ WITH valid_orders AS (
 ),
 campaigns AS (
     -- Campaign #1
-    SELECT DISTINCT vo.user_id, 'Кампания № 1' AS ads_campaign
+    SELECT DISTINCT vo.user_id, 'Campaign № 1' AS ads_campaign
     FROM valid_orders vo
     WHERE vo.user_id IN (
         8631, 8632, 8638, 8643, 8657, 8673, 8706, 8707, 8715, 8723,
@@ -44,7 +44,7 @@ campaigns AS (
     UNION ALL
 
     -- Campaign #2
-    SELECT DISTINCT vo.user_id, 'Кампания № 2' AS ads_campaign
+    SELECT DISTINCT vo.user_id, 'Campaign № 2' AS ads_campaign
     FROM valid_orders vo
     WHERE vo.user_id IN (
         8629, 8630, 8644, 8646, 8650, 8655, 8659, 8660, 8663, 8665,
@@ -79,9 +79,11 @@ SELECT
     ROUND(250000.0 / COUNT(user_id), 2) AS cac
 FROM campaigns
 GROUP BY ads_campaign
-ORDER BY cac DESC ```
+ORDER BY cac DESC;
+```
 
-![CAC chart](01_CAC/CAC.png)
+---
+![CAC chart](CAC.png)
 
 ## 📊 Analytical Insight
 In this calculation, the CAC is calculated based on users who have made a valid (non-cancelled) order, and not just registered.
