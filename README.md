@@ -30,7 +30,7 @@ Each campaign had a total budget of **250,000 RUB**.
 ## 🛠 Tools & Technologies
 
 - **SQL (PostgreSQL)** — metric calculation
-- CTEs, JOINs, aggregations
+- CTEs, JOINs, aggregations, window functions
 - Cohort analysis
 - Redash
 - GitHub — structured analytics presentation
