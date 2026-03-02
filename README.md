@@ -1,5 +1,4 @@
-# karpov.course
-# 📦 Marketing Campaign Analysis for Food Delivery Service
+# 📦 Marketing Campaign Analysis for Food Delivery Service (karpov.course)
 
 ## 📌 Project Overview
 
