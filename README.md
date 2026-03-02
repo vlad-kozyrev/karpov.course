@@ -134,6 +134,7 @@ The key differentiator was not acquisition cost, but repeat purchase behavior.
 Product/Data Analyst  
 
 🔗 LinkedIn — https://www.linkedin.com/in/vladislav-kozyrev
+
 📲 Telegram — https://t.me/What_1s_lovee1  
 
 ---
