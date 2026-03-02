@@ -2,7 +2,6 @@
 
 ## 🎯 Business Question
 Why do users from the first advertising channel bring us more money? Maybe their average order value is higher?
-
 For each advertising campaign, we calculated the average order value of attracted users during the first week of using the app from September 1 to 7.
 
 ## 🔍 SQL Query
