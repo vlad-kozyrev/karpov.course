@@ -124,10 +124,6 @@ The key differentiator was not acquisition cost, but repeat purchase behavior.
 
 ---
 
-## 📬 Author
-
----
-
 ## 👤 Author
 
 **Vlad Kozyrev**  
