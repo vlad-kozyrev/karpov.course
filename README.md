@@ -113,23 +113,6 @@ The key differentiator was not acquisition cost, but repeat purchase behavior.
 
 ---
 
-# 🧠 Product Thinking
-
-For a food delivery service, sustainable growth is driven by:
-
-Retention → Order Frequency → LTV → ROI
-
-A low CAC does not guarantee profitability if users do not return.
-
-When evaluating marketing channels, it is critical to analyze:
-
-- CAC
-- Retention
-- LTV
-- ROI
-- Payback period
-
----
 
 # 🚀 Business Recommendations
 
@@ -143,5 +126,14 @@ When evaluating marketing channels, it is critical to analyze:
 
 ## 📬 Author
 
-Marketing & Product Analytics Case Study  
-Food Delivery Service Dataset
+---
+
+## 👤 Author
+
+**Vlad Kozyrev**  
+Product/Data Analyst  
+
+🔗 LinkedIn — https://www.linkedin.com/in/vladislav-kozyrev
+📲 Telegram — https://t.me/What_1s_lovee1  
+
+---
